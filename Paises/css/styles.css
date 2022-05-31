@@ -33,3 +33,39 @@ img {
   border-radius: 10px;
   margin-right: 10px;
 }
+
+.Africa {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Europe {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Americas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Polar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Asia{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Oceania {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
